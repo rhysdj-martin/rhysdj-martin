@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Check out my LinkedIn to connect with me and check out my experiences and licences.
+
+~Rhys :)
+
 <!--
 **rhysdj-martin/rhysdj-martin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
